@@ -23,6 +23,3 @@ I'm a **Frontend Developer**
 
 ---
 
-### 📫 Let's connect
-
----
