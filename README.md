@@ -13,7 +13,8 @@ I'm a **Frontend Developer**
 ---
 
 ### 🚀 Featured Projects
-- 🎧 **Pinguino** — intelligent platform for learning languages with AI  
+- 🎧 **Pinguino** — intelligent platform for learning languages with AI
+- TodoList - cool easy and simple
 
 ---
 
